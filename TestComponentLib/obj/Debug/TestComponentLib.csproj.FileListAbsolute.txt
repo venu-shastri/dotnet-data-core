@@ -1,0 +1,4 @@
+E:\DataCore\TestComponentLib\bin\Debug\TestComponentLib.dll
+E:\DataCore\TestComponentLib\bin\Debug\TestComponentLib.pdb
+E:\DataCore\TestComponentLib\bin\Debug\1.0.0.0\TestComponentLib.dll
+E:\DataCore\TestComponentLib\bin\Debug\1.0.0.0\TestComponentLib.pdb
