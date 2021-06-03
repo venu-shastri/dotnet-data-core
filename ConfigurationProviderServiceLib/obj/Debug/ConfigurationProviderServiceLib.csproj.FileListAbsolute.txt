@@ -1,0 +1,11 @@
+E:\dotnet-data-core\ConfigurationProviderServiceLib\bin\Debug\ConfigurationProviderServiceLib.dll
+E:\dotnet-data-core\ConfigurationProviderServiceLib\bin\Debug\ConfigurationProviderServiceLib.pdb
+E:\dotnet-data-core\ConfigurationProviderServiceLib\bin\Debug\ConfigurationProvierServiceContractLib.dll
+E:\dotnet-data-core\ConfigurationProviderServiceLib\bin\Debug\ConfigurationServiceDataContractsLib.dll
+E:\dotnet-data-core\ConfigurationProviderServiceLib\bin\Debug\ConfigurationProvierServiceContractLib.pdb
+E:\dotnet-data-core\ConfigurationProviderServiceLib\bin\Debug\ConfigurationServiceDataContractsLib.pdb
+E:\dotnet-data-core\ConfigurationProviderServiceLib\obj\Debug\ConfigurationProviderServiceLib.csprojAssemblyReference.cache
+E:\dotnet-data-core\ConfigurationProviderServiceLib\obj\Debug\ConfigurationProviderServiceLib.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\ConfigurationProviderServiceLib\obj\Debug\ConfigurationProviderServiceLib.csproj.CopyComplete
+E:\dotnet-data-core\ConfigurationProviderServiceLib\obj\Debug\ConfigurationProviderServiceLib.dll
+E:\dotnet-data-core\ConfigurationProviderServiceLib\obj\Debug\ConfigurationProviderServiceLib.pdb

@@ -60,6 +60,18 @@
       <Project>{6084ae9d-8459-4f6c-a69e-786e0c7966b1}</Project>
       <Name>CalculatorServiceLib</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ConfigurationProviderServiceLib\ConfigurationProviderServiceLib.csproj">
+      <Project>{693694b9-5398-493d-82de-985d0b5dea38}</Project>
+      <Name>ConfigurationProviderServiceLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ConfigurationProvierServiceContractLib\ConfigurationProvierServiceContractLib.csproj">
+      <Project>{f5cef2d0-0873-4eaa-9aa9-67751ffcb567}</Project>
+      <Name>ConfigurationProvierServiceContractLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ConfigurationServiceDataContractsLib\ConfigurationServiceDataContractsLib.csproj">
+      <Project>{cfdaf134-f7ea-4f99-90ee-06717c8d5d46}</Project>
+      <Name>ConfigurationServiceDataContractsLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

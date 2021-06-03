@@ -1,0 +1,9 @@
+E:\dotnet-data-core\CalculatorServiceLib\bin\Debug\CalculatorServiceLib.dll
+E:\dotnet-data-core\CalculatorServiceLib\bin\Debug\CalculatorServiceLib.pdb
+E:\dotnet-data-core\CalculatorServiceLib\bin\Debug\CalculatorServiceContractLib.dll
+E:\dotnet-data-core\CalculatorServiceLib\bin\Debug\CalculatorServiceContractLib.pdb
+E:\dotnet-data-core\CalculatorServiceLib\obj\Debug\CalculatorServiceLib.csprojAssemblyReference.cache
+E:\dotnet-data-core\CalculatorServiceLib\obj\Debug\CalculatorServiceLib.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\CalculatorServiceLib\obj\Debug\CalculatorServiceLib.csproj.CopyComplete
+E:\dotnet-data-core\CalculatorServiceLib\obj\Debug\CalculatorServiceLib.dll
+E:\dotnet-data-core\CalculatorServiceLib\obj\Debug\CalculatorServiceLib.pdb

@@ -1,0 +1,9 @@
+E:\dotnet-data-core\ConfigurationProvierServiceContractLib\bin\Debug\ConfigurationProvierServiceContractLib.dll
+E:\dotnet-data-core\ConfigurationProvierServiceContractLib\bin\Debug\ConfigurationProvierServiceContractLib.pdb
+E:\dotnet-data-core\ConfigurationProvierServiceContractLib\bin\Debug\ConfigurationServiceDataContractsLib.dll
+E:\dotnet-data-core\ConfigurationProvierServiceContractLib\bin\Debug\ConfigurationServiceDataContractsLib.pdb
+E:\dotnet-data-core\ConfigurationProvierServiceContractLib\obj\Debug\ConfigurationProvierServiceContractLib.csprojAssemblyReference.cache
+E:\dotnet-data-core\ConfigurationProvierServiceContractLib\obj\Debug\ConfigurationProvierServiceContractLib.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\ConfigurationProvierServiceContractLib\obj\Debug\ConfigurationProvierServiceContractLib.csproj.CopyComplete
+E:\dotnet-data-core\ConfigurationProvierServiceContractLib\obj\Debug\ConfigurationProvierServiceContractLib.dll
+E:\dotnet-data-core\ConfigurationProvierServiceContractLib\obj\Debug\ConfigurationProvierServiceContractLib.pdb

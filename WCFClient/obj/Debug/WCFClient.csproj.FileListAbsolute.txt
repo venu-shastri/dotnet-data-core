@@ -1,0 +1,10 @@
+E:\dotnet-data-core\WCFClient\bin\Debug\WCFClient.exe.config
+E:\dotnet-data-core\WCFClient\bin\Debug\WCFClient.exe
+E:\dotnet-data-core\WCFClient\bin\Debug\WCFClient.pdb
+E:\dotnet-data-core\WCFClient\bin\Debug\CalculatorServiceContractLib.dll
+E:\dotnet-data-core\WCFClient\bin\Debug\CalculatorServiceContractLib.pdb
+E:\dotnet-data-core\WCFClient\obj\Debug\WCFClient.csprojAssemblyReference.cache
+E:\dotnet-data-core\WCFClient\obj\Debug\WCFClient.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\WCFClient\obj\Debug\WCFClient.csproj.CopyComplete
+E:\dotnet-data-core\WCFClient\obj\Debug\WCFClient.exe
+E:\dotnet-data-core\WCFClient\obj\Debug\WCFClient.pdb

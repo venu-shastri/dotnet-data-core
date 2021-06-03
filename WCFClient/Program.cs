@@ -16,6 +16,10 @@ namespace WCFClient
         {
 
         }
+        public CalculatorServiceProxy(string endpointConfigurationName) : base(endpointConfigurationName)
+        {
+
+        }
         public int Add(int x, int y)
         {
             //Endpoint
@@ -27,10 +31,11 @@ namespace WCFClient
     {
         static void Main(string[] args)
         {
-            Binding _communcationChannel = new NetNamedPipeBinding();
-            EndpointAddress _address = new EndpointAddress("net.pipe://localhost/calculatorservicepipe");
-            CalculatorServiceProxy _service = new CalculatorServiceProxy(_communcationChannel,_address);
-            int result=_service.Add(10,20);
+              CalculatorServiceProxy _proxy =
+                new CalculatorServiceProxy("onmachinecommunicationendpoint");
+
+
+            int result= _proxy.Add(10,20);
             Console.WriteLine(result);
         }
     }

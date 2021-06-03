@@ -14,18 +14,14 @@ namespace Server
         static void Main(string[] args)
         {
 
-            wcf.ServiceHost _communicationObject = new wcf.ServiceHost(typeof(CalculatorService));
-            _communicationObject.Closed += _communicationObject_Closed;
-            //Add ServiceEndpoit
-            //Contract :- Methods,Message Structure
-            //Binding :- Communication Channel(transport,encoder,formatter,security.....)
-            //Address : Network Address
-            System.Type _contractType = typeof(CalculatorServiceContractLib.ICalculatorService);
-            wcf.NetNamedPipeBinding _communicationChannel = new wcf.NetNamedPipeBinding();
-            string address = "net.pipe://localhost/calculatorservicepipe";
-            _communicationObject.AddServiceEndpoint(_contractType, _communicationChannel, address);
+            wcf.ServiceHost _cakculatorServiceTypecommunicationObject = new wcf.ServiceHost(typeof(CalculatorService));
+            _cakculatorServiceTypecommunicationObject.Closed += _communicationObject_Closed;
+            _cakculatorServiceTypecommunicationObject.Open();
 
-             _communicationObject.Open();
+            wcf.ServiceHost _configurationProviderServiceTypeCommunicationObject =
+                new wcf.ServiceHost(typeof(ConfigurationProviderServiceLib.ConfigurationProvierService));
+            _configurationProviderServiceTypeCommunicationObject.Open();
+
             Console.WriteLine("Server Started");
             _handle.WaitOne();
         }
