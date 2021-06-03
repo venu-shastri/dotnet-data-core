@@ -1,0 +1,5 @@
+E:\dotnet-data-core\CalculatorLib\bin\Debug\CalculatorLib.dll
+E:\dotnet-data-core\CalculatorLib\bin\Debug\CalculatorLib.pdb
+E:\dotnet-data-core\CalculatorLib\obj\Debug\CalculatorLib.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\CalculatorLib\obj\Debug\CalculatorLib.dll
+E:\dotnet-data-core\CalculatorLib\obj\Debug\CalculatorLib.pdb

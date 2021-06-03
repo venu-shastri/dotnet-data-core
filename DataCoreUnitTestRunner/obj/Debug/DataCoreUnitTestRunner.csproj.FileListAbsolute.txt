@@ -1,0 +1,10 @@
+E:\dotnet-data-core\DataCoreUnitTestRunner\bin\Debug\DataCoreUnitTestRunner.exe.config
+E:\dotnet-data-core\DataCoreUnitTestRunner\bin\Debug\DataCoreUnitTestRunner.exe
+E:\dotnet-data-core\DataCoreUnitTestRunner\bin\Debug\DataCoreUnitTestRunner.pdb
+E:\dotnet-data-core\DataCoreUnitTestRunner\bin\Debug\DataCoueUnitTestLib.dll
+E:\dotnet-data-core\DataCoreUnitTestRunner\bin\Debug\DataCoueUnitTestLib.pdb
+E:\dotnet-data-core\DataCoreUnitTestRunner\obj\Debug\DataCoreUnitTestRunner.csprojAssemblyReference.cache
+E:\dotnet-data-core\DataCoreUnitTestRunner\obj\Debug\DataCoreUnitTestRunner.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\DataCoreUnitTestRunner\obj\Debug\DataCoreUnitTestRunner.csproj.CopyComplete
+E:\dotnet-data-core\DataCoreUnitTestRunner\obj\Debug\DataCoreUnitTestRunner.exe
+E:\dotnet-data-core\DataCoreUnitTestRunner\obj\Debug\DataCoreUnitTestRunner.pdb

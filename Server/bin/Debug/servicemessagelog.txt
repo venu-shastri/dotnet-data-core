@@ -1,0 +1,58 @@
+********************60*********************
+<s:Envelope xmlns:a="http://www.w3.org/2005/08/addressing" xmlns:s="http://www.w3.org/2003/05/soap-envelope">
+  <s:Header>
+    <a:Action s:mustUnderstand="1">http://tempuri.org/ICalculatorService/Add</a:Action>
+    <a:MessageID>urn:uuid:59cd9d62-517d-4f77-bed1-dc1083ca1ad4</a:MessageID>
+    <a:ReplyTo>
+      <a:Address>http://www.w3.org/2005/08/addressing/anonymous</a:Address>
+    </a:ReplyTo>
+    <a:To s:mustUnderstand="1">net.pipe://localhost/calculatorservicepipe</a:To>
+  </s:Header>
+  <s:Body>
+    <Add xmlns="http://tempuri.org/">
+      <x>10</x>
+      <y>20</y>
+    </Add>
+  </s:Body>
+</s:Envelope>
+***************Reply For : 60*********************
+<s:Envelope xmlns:a="http://www.w3.org/2005/08/addressing" xmlns:s="http://www.w3.org/2003/05/soap-envelope">
+  <s:Header>
+    <a:Action s:mustUnderstand="1">http://tempuri.org/ICalculatorService/AddResponse</a:Action>
+    <a:RelatesTo>urn:uuid:59cd9d62-517d-4f77-bed1-dc1083ca1ad4</a:RelatesTo>
+  </s:Header>
+  <s:Body>
+    <AddResponse xmlns="http://tempuri.org/">
+      <AddResult>30</AddResult>
+    </AddResponse>
+  </s:Body>
+</s:Envelope>
+********************68*********************
+<s:Envelope xmlns:a="http://www.w3.org/2005/08/addressing" xmlns:s="http://www.w3.org/2003/05/soap-envelope">
+  <s:Header>
+    <a:Action s:mustUnderstand="1">http://tempuri.org/ICalculatorService/Add</a:Action>
+    <a:MessageID>urn:uuid:0c6725dd-b09d-435a-ad14-da81dece4b9d</a:MessageID>
+    <a:ReplyTo>
+      <a:Address>http://www.w3.org/2005/08/addressing/anonymous</a:Address>
+    </a:ReplyTo>
+    <a:To s:mustUnderstand="1">net.tcp://localhost:9000/lanep</a:To>
+  </s:Header>
+  <s:Body>
+    <Add xmlns="http://tempuri.org/">
+      <x>10</x>
+      <y>20</y>
+    </Add>
+  </s:Body>
+</s:Envelope>
+***************Reply For : 68*********************
+<s:Envelope xmlns:a="http://www.w3.org/2005/08/addressing" xmlns:s="http://www.w3.org/2003/05/soap-envelope">
+  <s:Header>
+    <a:Action s:mustUnderstand="1">http://tempuri.org/ICalculatorService/AddResponse</a:Action>
+    <a:RelatesTo>urn:uuid:0c6725dd-b09d-435a-ad14-da81dece4b9d</a:RelatesTo>
+  </s:Header>
+  <s:Body>
+    <AddResponse xmlns="http://tempuri.org/">
+      <AddResult>30</AddResult>
+    </AddResponse>
+  </s:Body>
+</s:Envelope>

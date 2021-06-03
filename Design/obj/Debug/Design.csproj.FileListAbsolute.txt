@@ -1,0 +1,6 @@
+E:\dotnet-data-core\Design\bin\Debug\Design.exe.config
+E:\dotnet-data-core\Design\bin\Debug\Design.exe
+E:\dotnet-data-core\Design\bin\Debug\Design.pdb
+E:\dotnet-data-core\Design\obj\Debug\Design.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\Design\obj\Debug\Design.exe
+E:\dotnet-data-core\Design\obj\Debug\Design.pdb

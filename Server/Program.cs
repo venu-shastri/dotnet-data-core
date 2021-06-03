@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using wcf = System.ServiceModel;
 using CalculatorServiceLib;
+using System.ServiceModel.Description;
+
 namespace Server
 {
     class Program
@@ -16,6 +18,10 @@ namespace Server
 
             wcf.ServiceHost _cakculatorServiceTypecommunicationObject = new wcf.ServiceHost(typeof(CalculatorService));
             _cakculatorServiceTypecommunicationObject.Closed += _communicationObject_Closed;
+            //foreach(ServiceEndpoint ep in _cakculatorServiceTypecommunicationObject.Description.Endpoints)
+            //{
+            //    ep.EndpointBehaviors.Add(new WCFExtensibilityLib.MessageInpectionEndpointBehavior());
+            //}
             _cakculatorServiceTypecommunicationObject.Open();
 
             wcf.ServiceHost _configurationProviderServiceTypeCommunicationObject =

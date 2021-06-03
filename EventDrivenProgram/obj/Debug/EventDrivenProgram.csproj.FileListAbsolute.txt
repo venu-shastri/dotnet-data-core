@@ -1,0 +1,6 @@
+E:\dotnet-data-core\EventDrivenProgram\bin\Debug\EventDrivenProgram.exe.config
+E:\dotnet-data-core\EventDrivenProgram\bin\Debug\EventDrivenProgram.exe
+E:\dotnet-data-core\EventDrivenProgram\bin\Debug\EventDrivenProgram.pdb
+E:\dotnet-data-core\EventDrivenProgram\obj\Debug\EventDrivenProgram.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\EventDrivenProgram\obj\Debug\EventDrivenProgram.exe
+E:\dotnet-data-core\EventDrivenProgram\obj\Debug\EventDrivenProgram.pdb

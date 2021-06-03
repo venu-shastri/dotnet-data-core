@@ -32,7 +32,7 @@ namespace WCFClient
         static void Main(string[] args)
         {
               CalculatorServiceProxy _proxy =
-                new CalculatorServiceProxy("onmachinecommunicationendpoint");
+                new CalculatorServiceProxy("lanclientcommunicationendpoint");
 
 
             int result= _proxy.Add(10,20);

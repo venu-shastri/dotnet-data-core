@@ -1,0 +1,6 @@
+E:\dotnet-data-core\DataCoueUnitTestLib\bin\Debug\DataCoueUnitTestLib.dll
+E:\dotnet-data-core\DataCoueUnitTestLib\bin\Debug\DataCoueUnitTestLib.pdb
+E:\dotnet-data-core\DataCoueUnitTestLib\obj\Debug\DataCoueUnitTestLib.csprojAssemblyReference.cache
+E:\dotnet-data-core\DataCoueUnitTestLib\obj\Debug\DataCoueUnitTestLib.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\DataCoueUnitTestLib\obj\Debug\DataCoueUnitTestLib.dll
+E:\dotnet-data-core\DataCoueUnitTestLib\obj\Debug\DataCoueUnitTestLib.pdb

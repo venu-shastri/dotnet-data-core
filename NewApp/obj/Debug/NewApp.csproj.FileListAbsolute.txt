@@ -1,0 +1,10 @@
+E:\dotnet-data-core\NewApp\bin\Debug\NewApp.exe.config
+E:\dotnet-data-core\NewApp\bin\Debug\NewApp.exe
+E:\dotnet-data-core\NewApp\bin\Debug\NewApp.pdb
+E:\dotnet-data-core\NewApp\bin\Debug\TestComponentLib.dll
+E:\dotnet-data-core\NewApp\bin\Debug\TestComponentLib.pdb
+E:\dotnet-data-core\NewApp\obj\Debug\NewApp.csprojAssemblyReference.cache
+E:\dotnet-data-core\NewApp\obj\Debug\NewApp.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\NewApp\obj\Debug\NewApp.csproj.CopyComplete
+E:\dotnet-data-core\NewApp\obj\Debug\NewApp.exe
+E:\dotnet-data-core\NewApp\obj\Debug\NewApp.pdb

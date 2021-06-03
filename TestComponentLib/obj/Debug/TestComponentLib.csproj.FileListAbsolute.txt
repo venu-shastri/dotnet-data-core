@@ -2,3 +2,9 @@ E:\DataCore\TestComponentLib\bin\Debug\TestComponentLib.dll
 E:\DataCore\TestComponentLib\bin\Debug\TestComponentLib.pdb
 E:\DataCore\TestComponentLib\bin\Debug\1.0.0.0\TestComponentLib.dll
 E:\DataCore\TestComponentLib\bin\Debug\1.0.0.0\TestComponentLib.pdb
+E:\dotnet-data-core\TestComponentLib\bin\Debug\1.0.0.1\TestComponentLib.dll
+E:\dotnet-data-core\TestComponentLib\bin\Debug\1.0.0.1\TestComponentLib.pdb
+E:\dotnet-data-core\TestComponentLib\obj\Debug\TestComponentLib.csprojAssemblyReference.cache
+E:\dotnet-data-core\TestComponentLib\obj\Debug\TestComponentLib.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\TestComponentLib\obj\Debug\TestComponentLib.dll
+E:\dotnet-data-core\TestComponentLib\obj\Debug\TestComponentLib.pdb

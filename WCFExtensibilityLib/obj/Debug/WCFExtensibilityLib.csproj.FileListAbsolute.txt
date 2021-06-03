@@ -1,0 +1,6 @@
+E:\dotnet-data-core\WCFExtensibilityLib\bin\Debug\WCFExtensibilityLib.dll
+E:\dotnet-data-core\WCFExtensibilityLib\bin\Debug\WCFExtensibilityLib.pdb
+E:\dotnet-data-core\WCFExtensibilityLib\obj\Debug\WCFExtensibilityLib.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\WCFExtensibilityLib\obj\Debug\WCFExtensibilityLib.dll
+E:\dotnet-data-core\WCFExtensibilityLib\obj\Debug\WCFExtensibilityLib.pdb
+E:\dotnet-data-core\WCFExtensibilityLib\obj\Debug\WCFExtensibilityLib.csprojAssemblyReference.cache

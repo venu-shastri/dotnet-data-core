@@ -1,0 +1,10 @@
+E:\dotnet-data-core\App\bin\Debug\App.exe.config
+E:\dotnet-data-core\App\bin\Debug\App.exe
+E:\dotnet-data-core\App\bin\Debug\App.pdb
+E:\dotnet-data-core\App\bin\Debug\TestComponentLib.dll
+E:\dotnet-data-core\App\bin\Debug\TestComponentLib.pdb
+E:\dotnet-data-core\App\obj\Debug\App.csprojAssemblyReference.cache
+E:\dotnet-data-core\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\App\obj\Debug\App.csproj.CopyComplete
+E:\dotnet-data-core\App\obj\Debug\App.exe
+E:\dotnet-data-core\App\obj\Debug\App.pdb

@@ -16,3 +16,5 @@ E:\dotnet-data-core\Server\bin\Debug\ConfigurationServiceDataContractsLib.dll
 E:\dotnet-data-core\Server\bin\Debug\ConfigurationProviderServiceLib.pdb
 E:\dotnet-data-core\Server\bin\Debug\ConfigurationProvierServiceContractLib.pdb
 E:\dotnet-data-core\Server\bin\Debug\ConfigurationServiceDataContractsLib.pdb
+E:\dotnet-data-core\Server\bin\Debug\WCFExtensibilityLib.dll
+E:\dotnet-data-core\Server\bin\Debug\WCFExtensibilityLib.pdb

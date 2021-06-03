@@ -75,7 +75,7 @@ namespace DynamicProgramming
 
         public void Method()
         {
-            var names;
+            //var names;
 
             
             //projection Queries 

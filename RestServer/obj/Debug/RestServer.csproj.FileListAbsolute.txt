@@ -1,0 +1,12 @@
+E:\dotnet-data-core\RestServer\bin\Debug\RestServer.exe.config
+E:\dotnet-data-core\RestServer\bin\Debug\RestServer.exe
+E:\dotnet-data-core\RestServer\bin\Debug\RestServer.pdb
+E:\dotnet-data-core\RestServer\bin\Debug\ConfigurationProviderIntegrationServiceContractLib.dll
+E:\dotnet-data-core\RestServer\bin\Debug\ConfigurationProviderIntegrationServiceLib.dll
+E:\dotnet-data-core\RestServer\bin\Debug\ConfigurationProviderIntegrationServiceContractLib.pdb
+E:\dotnet-data-core\RestServer\bin\Debug\ConfigurationProviderIntegrationServiceLib.pdb
+E:\dotnet-data-core\RestServer\obj\Debug\RestServer.csprojAssemblyReference.cache
+E:\dotnet-data-core\RestServer\obj\Debug\RestServer.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\RestServer\obj\Debug\RestServer.csproj.CopyComplete
+E:\dotnet-data-core\RestServer\obj\Debug\RestServer.exe
+E:\dotnet-data-core\RestServer\obj\Debug\RestServer.pdb

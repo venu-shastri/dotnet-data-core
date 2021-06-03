@@ -1,0 +1,7 @@
+E:\dotnet-data-core\ThreadingBasics\bin\Debug\ThreadingBasics.exe.config
+E:\dotnet-data-core\ThreadingBasics\bin\Debug\ThreadingBasics.exe
+E:\dotnet-data-core\ThreadingBasics\bin\Debug\ThreadingBasics.pdb
+E:\dotnet-data-core\ThreadingBasics\obj\Debug\ThreadingBasics.csprojAssemblyReference.cache
+E:\dotnet-data-core\ThreadingBasics\obj\Debug\ThreadingBasics.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\ThreadingBasics\obj\Debug\ThreadingBasics.exe
+E:\dotnet-data-core\ThreadingBasics\obj\Debug\ThreadingBasics.pdb

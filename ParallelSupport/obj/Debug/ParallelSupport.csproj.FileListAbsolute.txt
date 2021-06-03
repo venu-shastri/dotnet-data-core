@@ -1,0 +1,6 @@
+E:\dotnet-data-core\ParallelSupport\bin\Debug\ParallelSupport.exe.config
+E:\dotnet-data-core\ParallelSupport\bin\Debug\ParallelSupport.exe
+E:\dotnet-data-core\ParallelSupport\bin\Debug\ParallelSupport.pdb
+E:\dotnet-data-core\ParallelSupport\obj\Debug\ParallelSupport.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\ParallelSupport\obj\Debug\ParallelSupport.exe
+E:\dotnet-data-core\ParallelSupport\obj\Debug\ParallelSupport.pdb

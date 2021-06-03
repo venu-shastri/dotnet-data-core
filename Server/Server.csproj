@@ -72,6 +72,10 @@
       <Project>{cfdaf134-f7ea-4f99-90ee-06717c8d5d46}</Project>
       <Name>ConfigurationServiceDataContractsLib</Name>
     </ProjectReference>
+    <ProjectReference Include="..\WCFExtensibilityLib\WCFExtensibilityLib.csproj">
+      <Project>{e504a0b4-1513-4e44-8870-f1c7a54af996}</Project>
+      <Name>WCFExtensibilityLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

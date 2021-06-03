@@ -1,0 +1,6 @@
+E:\dotnet-data-core\GCDemo\bin\Debug\GCDemo.exe.config
+E:\dotnet-data-core\GCDemo\bin\Debug\GCDemo.exe
+E:\dotnet-data-core\GCDemo\bin\Debug\GCDemo.pdb
+E:\dotnet-data-core\GCDemo\obj\Debug\GCDemo.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\GCDemo\obj\Debug\GCDemo.exe
+E:\dotnet-data-core\GCDemo\obj\Debug\GCDemo.pdb
