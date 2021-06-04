@@ -1,0 +1,6 @@
+E:\dotnet-data-core\WhyAttributes\bin\Debug\WhyAttributes.exe.config
+E:\dotnet-data-core\WhyAttributes\bin\Debug\WhyAttributes.exe
+E:\dotnet-data-core\WhyAttributes\bin\Debug\WhyAttributes.pdb
+E:\dotnet-data-core\WhyAttributes\obj\Debug\WhyAttributes.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\WhyAttributes\obj\Debug\WhyAttributes.exe
+E:\dotnet-data-core\WhyAttributes\obj\Debug\WhyAttributes.pdb

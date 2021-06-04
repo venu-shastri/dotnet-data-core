@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionServer", "Transa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionClient", "TransactionClient\TransactionClient.csproj", "{DCBD808F-E792-4E06-A64A-DB15D19E73C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhyAttributes", "WhyAttributes\WhyAttributes.csproj", "{19793FB5-5283-4F97-91C4-122F718E7582}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -247,6 +249,10 @@ Global
 		{DCBD808F-E792-4E06-A64A-DB15D19E73C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCBD808F-E792-4E06-A64A-DB15D19E73C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCBD808F-E792-4E06-A64A-DB15D19E73C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19793FB5-5283-4F97-91C4-122F718E7582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19793FB5-5283-4F97-91C4-122F718E7582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19793FB5-5283-4F97-91C4-122F718E7582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19793FB5-5283-4F97-91C4-122F718E7582}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
