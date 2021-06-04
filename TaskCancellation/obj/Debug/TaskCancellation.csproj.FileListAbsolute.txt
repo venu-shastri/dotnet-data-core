@@ -1,0 +1,7 @@
+E:\dotnet-data-core\TaskCancellation\bin\Debug\TaskCancellation.exe.config
+E:\dotnet-data-core\TaskCancellation\bin\Debug\TaskCancellation.exe
+E:\dotnet-data-core\TaskCancellation\bin\Debug\TaskCancellation.pdb
+E:\dotnet-data-core\TaskCancellation\obj\Debug\TaskCancellation.csprojAssemblyReference.cache
+E:\dotnet-data-core\TaskCancellation\obj\Debug\TaskCancellation.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\TaskCancellation\obj\Debug\TaskCancellation.exe
+E:\dotnet-data-core\TaskCancellation\obj\Debug\TaskCancellation.pdb
