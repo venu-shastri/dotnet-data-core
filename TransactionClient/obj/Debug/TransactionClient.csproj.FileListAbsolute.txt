@@ -1,0 +1,9 @@
+E:\dotnet-data-core\TransactionClient\bin\Debug\TransactionClient.exe.config
+E:\dotnet-data-core\TransactionClient\bin\Debug\TransactionClient.exe
+E:\dotnet-data-core\TransactionClient\bin\Debug\TransactionClient.pdb
+E:\dotnet-data-core\TransactionClient\bin\Debug\ContractsLib.dll
+E:\dotnet-data-core\TransactionClient\bin\Debug\ContractsLib.pdb
+E:\dotnet-data-core\TransactionClient\obj\Debug\TransactionClient.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\TransactionClient\obj\Debug\TransactionClient.csproj.CopyComplete
+E:\dotnet-data-core\TransactionClient\obj\Debug\TransactionClient.exe
+E:\dotnet-data-core\TransactionClient\obj\Debug\TransactionClient.pdb

@@ -1,0 +1,6 @@
+E:\dotnet-data-core\ContractsLib\bin\Debug\ContractsLib.dll
+E:\dotnet-data-core\ContractsLib\bin\Debug\ContractsLib.pdb
+E:\dotnet-data-core\ContractsLib\obj\Debug\ContractsLib.csprojAssemblyReference.cache
+E:\dotnet-data-core\ContractsLib\obj\Debug\ContractsLib.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\ContractsLib\obj\Debug\ContractsLib.dll
+E:\dotnet-data-core\ContractsLib\obj\Debug\ContractsLib.pdb

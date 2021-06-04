@@ -1,0 +1,10 @@
+E:\dotnet-data-core\TransactionServer\bin\Debug\TransactionServer.exe.config
+E:\dotnet-data-core\TransactionServer\bin\Debug\TransactionServer.exe
+E:\dotnet-data-core\TransactionServer\bin\Debug\TransactionServer.pdb
+E:\dotnet-data-core\TransactionServer\bin\Debug\ContractsLib.dll
+E:\dotnet-data-core\TransactionServer\bin\Debug\ContractsLib.pdb
+E:\dotnet-data-core\TransactionServer\obj\Debug\TransactionServer.csprojAssemblyReference.cache
+E:\dotnet-data-core\TransactionServer\obj\Debug\TransactionServer.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\TransactionServer\obj\Debug\TransactionServer.csproj.CopyComplete
+E:\dotnet-data-core\TransactionServer\obj\Debug\TransactionServer.exe
+E:\dotnet-data-core\TransactionServer\obj\Debug\TransactionServer.pdb
