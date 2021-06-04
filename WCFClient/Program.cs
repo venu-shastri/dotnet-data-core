@@ -33,10 +33,17 @@ namespace WCFClient
         {
               CalculatorServiceProxy _proxy =
                 new CalculatorServiceProxy("lanclientcommunicationendpoint");
+            Console.WriteLine("Proxy Instantiated");
+            System.Threading.Thread.Sleep(5000);
 
-
-            int result= _proxy.Add(10,20);
-            Console.WriteLine(result);
+            Random _random = new Random();
+            while (true)
+            {
+                int result = _proxy.Add(_random.Next(1, 100), _random.Next(1, 100));
+                Console.WriteLine(result);
+                System.Threading.Thread.Sleep(2000);
+            }
+           
         }
     }
 }

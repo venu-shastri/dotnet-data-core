@@ -16,7 +16,8 @@ namespace Server
         static void Main(string[] args)
         {
 
-            wcf.ServiceHost _cakculatorServiceTypecommunicationObject = new wcf.ServiceHost(typeof(CalculatorService));
+            wcf.ServiceHost _cakculatorServiceTypecommunicationObject =
+                new wcf.ServiceHost(typeof(CalculatorService));
             _cakculatorServiceTypecommunicationObject.Closed += _communicationObject_Closed;
             //foreach(ServiceEndpoint ep in _cakculatorServiceTypecommunicationObject.Description.Endpoints)
             //{

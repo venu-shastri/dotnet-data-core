@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CalculatorServiceLib
 {
+    [System.ServiceModel.ServiceBehavior(InstanceContextMode =System.ServiceModel.InstanceContextMode.PerCall)]
     public class CalculatorService:CalculatorServiceContractLib.ICalculatorService
     {
         public CalculatorService()

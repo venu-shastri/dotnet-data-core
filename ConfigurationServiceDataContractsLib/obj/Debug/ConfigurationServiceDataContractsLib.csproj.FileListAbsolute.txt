@@ -3,3 +3,4 @@ E:\dotnet-data-core\ConfigurationServiceDataContractsLib\bin\Debug\Configuration
 E:\dotnet-data-core\ConfigurationServiceDataContractsLib\obj\Debug\ConfigurationServiceDataContractsLib.csproj.CoreCompileInputs.cache
 E:\dotnet-data-core\ConfigurationServiceDataContractsLib\obj\Debug\ConfigurationServiceDataContractsLib.dll
 E:\dotnet-data-core\ConfigurationServiceDataContractsLib\obj\Debug\ConfigurationServiceDataContractsLib.pdb
+E:\dotnet-data-core\ConfigurationServiceDataContractsLib\obj\Debug\ConfigurationServiceDataContractsLib.csprojAssemblyReference.cache

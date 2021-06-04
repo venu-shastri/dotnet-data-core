@@ -60,6 +60,19 @@ namespace TaskCancellation
 
             
         }
+
+        static async void DownLoadTask(object state)
+        {
+            var webclient = new System.Net.WebClient();
+            CancellationToken _token = (CancellationToken)state;
+            //Callback Registration
+            _token.Register(() => {
+                webclient.CancelAsync();
+            });
+          
+            var dataContent=await webclient.DownloadDataTaskAsync("www.datacore.com");
+
+        }
     }
 
 }
