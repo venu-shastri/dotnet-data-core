@@ -1,0 +1,38 @@
+********************59*********************
+<s:Envelope xmlns:a="http://www.w3.org/2005/08/addressing" xmlns:s="http://www.w3.org/2003/05/soap-envelope">
+  <s:Header>
+    <a:Action s:mustUnderstand="1">http://tempuri.org/IService/Submitt</a:Action>
+    <a:MessageID>urn:uuid:ed6a2a8c-f155-40c7-83a3-bda7da7957d6</a:MessageID>
+    <a:ReplyTo>
+      <a:Address>http://www.w3.org/2005/08/addressing/anonymous</a:Address>
+    </a:ReplyTo>
+    <a:To s:mustUnderstand="1">net.tcp://localhost:9002/tcpep</a:To>
+  </s:Header>
+  <s:Body>
+    <Submitt xmlns="http://tempuri.org/">
+      <content>Hello Server</content>
+    </Submitt>
+  </s:Body>
+</s:Envelope>
+***************Reply For : 59*********************
+<s:Envelope xmlns:a="http://www.w3.org/2005/08/addressing" xmlns:s="http://www.w3.org/2003/05/soap-envelope">
+  <s:Header>
+    <a:Action s:mustUnderstand="1">http://tempuri.org/IService/SubmittResponse</a:Action>
+    <a:RelatesTo>urn:uuid:ed6a2a8c-f155-40c7-83a3-bda7da7957d6</a:RelatesTo>
+  </s:Header>
+  <s:Body>
+    <SubmittResponse xmlns="http://tempuri.org/" />
+  </s:Body>
+</s:Envelope>
+********************2*********************
+<s:Envelope xmlns:s="http://www.w3.org/2003/05/soap-envelope" xmlns:a="http://www.w3.org/2005/08/addressing">
+  <s:Header>
+    <a:Action s:mustUnderstand="1">http://tempuri.org/IService/Submitt</a:Action>
+    <a:To s:mustUnderstand="1">net.tcp://localhost:9002/tcpep</a:To>
+  </s:Header>
+  <s:Body>
+    <Submitt xmlns="http://tempuri.org/">
+      <content>Hi Server</content>
+    </Submitt>
+  </s:Body>
+</s:Envelope>

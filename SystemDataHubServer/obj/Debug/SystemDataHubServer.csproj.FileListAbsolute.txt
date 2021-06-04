@@ -1,0 +1,14 @@
+E:\dotnet-data-core\SystemDataHubServer\bin\Debug\SystemDataHubServer.exe.config
+E:\dotnet-data-core\SystemDataHubServer\bin\Debug\SystemDataHubServer.exe
+E:\dotnet-data-core\SystemDataHubServer\bin\Debug\SystemDataHubServer.pdb
+E:\dotnet-data-core\SystemDataHubServer\bin\Debug\DataHubServicePubisherContractLib.dll
+E:\dotnet-data-core\SystemDataHubServer\bin\Debug\DataHubServiceSubscriberContractLib.dll
+E:\dotnet-data-core\SystemDataHubServer\bin\Debug\WCFExtensibilityLib.dll
+E:\dotnet-data-core\SystemDataHubServer\bin\Debug\DataHubServicePubisherContractLib.pdb
+E:\dotnet-data-core\SystemDataHubServer\bin\Debug\DataHubServiceSubscriberContractLib.pdb
+E:\dotnet-data-core\SystemDataHubServer\bin\Debug\WCFExtensibilityLib.pdb
+E:\dotnet-data-core\SystemDataHubServer\obj\Debug\SystemDataHubServer.csprojAssemblyReference.cache
+E:\dotnet-data-core\SystemDataHubServer\obj\Debug\SystemDataHubServer.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\SystemDataHubServer\obj\Debug\SystemDataHubServer.csproj.CopyComplete
+E:\dotnet-data-core\SystemDataHubServer\obj\Debug\SystemDataHubServer.exe
+E:\dotnet-data-core\SystemDataHubServer\obj\Debug\SystemDataHubServer.pdb

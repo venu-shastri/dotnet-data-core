@@ -1,0 +1,5 @@
+E:\dotnet-data-core\ConcuurencyModeServerContractLib\bin\Debug\ConcuurencyModeServerContractLib.dll
+E:\dotnet-data-core\ConcuurencyModeServerContractLib\bin\Debug\ConcuurencyModeServerContractLib.pdb
+E:\dotnet-data-core\ConcuurencyModeServerContractLib\obj\Debug\ConcuurencyModeServerContractLib.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\ConcuurencyModeServerContractLib\obj\Debug\ConcuurencyModeServerContractLib.dll
+E:\dotnet-data-core\ConcuurencyModeServerContractLib\obj\Debug\ConcuurencyModeServerContractLib.pdb

@@ -1,0 +1,6 @@
+E:\dotnet-data-core\ClientApp\bin\Debug\ClientApp.exe.config
+E:\dotnet-data-core\ClientApp\bin\Debug\ClientApp.exe
+E:\dotnet-data-core\ClientApp\bin\Debug\ClientApp.pdb
+E:\dotnet-data-core\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\ClientApp\obj\Debug\ClientApp.exe
+E:\dotnet-data-core\ClientApp\obj\Debug\ClientApp.pdb

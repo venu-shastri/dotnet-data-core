@@ -3,3 +3,4 @@ E:\dotnet-data-core\CalculatorServiceContractLib\bin\Debug\CalculatorServiceCont
 E:\dotnet-data-core\CalculatorServiceContractLib\obj\Debug\CalculatorServiceContractLib.csproj.CoreCompileInputs.cache
 E:\dotnet-data-core\CalculatorServiceContractLib\obj\Debug\CalculatorServiceContractLib.dll
 E:\dotnet-data-core\CalculatorServiceContractLib\obj\Debug\CalculatorServiceContractLib.pdb
+E:\dotnet-data-core\CalculatorServiceContractLib\obj\Debug\CalculatorServiceContractLib.csprojAssemblyReference.cache

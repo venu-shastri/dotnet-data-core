@@ -1,0 +1,12 @@
+E:\dotnet-data-core\ConcurrencyModeServer\bin\Debug\ConcurrencyModeServer.exe.config
+E:\dotnet-data-core\ConcurrencyModeServer\bin\Debug\ConcurrencyModeServer.exe
+E:\dotnet-data-core\ConcurrencyModeServer\bin\Debug\ConcurrencyModeServer.pdb
+E:\dotnet-data-core\ConcurrencyModeServer\bin\Debug\ConcuurencyModeServerContractLib.dll
+E:\dotnet-data-core\ConcurrencyModeServer\bin\Debug\ConcuurencyModeServerContractLib.pdb
+E:\dotnet-data-core\ConcurrencyModeServer\obj\Debug\ConcurrencyModeServer.csprojAssemblyReference.cache
+E:\dotnet-data-core\ConcurrencyModeServer\obj\Debug\ConcurrencyModeServer.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\ConcurrencyModeServer\obj\Debug\ConcurrencyModeServer.csproj.CopyComplete
+E:\dotnet-data-core\ConcurrencyModeServer\obj\Debug\ConcurrencyModeServer.exe
+E:\dotnet-data-core\ConcurrencyModeServer\obj\Debug\ConcurrencyModeServer.pdb
+E:\dotnet-data-core\ConcurrencyModeServer\bin\Debug\WCFExtensibilityLib.dll
+E:\dotnet-data-core\ConcurrencyModeServer\bin\Debug\WCFExtensibilityLib.pdb

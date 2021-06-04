@@ -1,0 +1,5 @@
+E:\dotnet-data-core\DataHubServiceSubscriberContractLib\bin\Debug\DataHubServiceSubscriberContractLib.dll
+E:\dotnet-data-core\DataHubServiceSubscriberContractLib\bin\Debug\DataHubServiceSubscriberContractLib.pdb
+E:\dotnet-data-core\DataHubServiceSubscriberContractLib\obj\Debug\DataHubServiceSubscriberContractLib.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\DataHubServiceSubscriberContractLib\obj\Debug\DataHubServiceSubscriberContractLib.dll
+E:\dotnet-data-core\DataHubServiceSubscriberContractLib\obj\Debug\DataHubServiceSubscriberContractLib.pdb

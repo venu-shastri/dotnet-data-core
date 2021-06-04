@@ -1,0 +1,6 @@
+E:\dotnet-data-core\DataHubServicePubisherContractLib\bin\Debug\DataHubServicePubisherContractLib.dll
+E:\dotnet-data-core\DataHubServicePubisherContractLib\bin\Debug\DataHubServicePubisherContractLib.pdb
+E:\dotnet-data-core\DataHubServicePubisherContractLib\obj\Debug\DataHubServicePubisherContractLib.csprojAssemblyReference.cache
+E:\dotnet-data-core\DataHubServicePubisherContractLib\obj\Debug\DataHubServicePubisherContractLib.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\DataHubServicePubisherContractLib\obj\Debug\DataHubServicePubisherContractLib.dll
+E:\dotnet-data-core\DataHubServicePubisherContractLib\obj\Debug\DataHubServicePubisherContractLib.pdb

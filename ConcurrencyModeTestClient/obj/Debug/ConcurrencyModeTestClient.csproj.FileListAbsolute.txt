@@ -1,0 +1,10 @@
+E:\dotnet-data-core\ConcurrencyModeTestClient\bin\Debug\ConcurrencyModeTestClient.exe.config
+E:\dotnet-data-core\ConcurrencyModeTestClient\bin\Debug\ConcurrencyModeTestClient.exe
+E:\dotnet-data-core\ConcurrencyModeTestClient\bin\Debug\ConcurrencyModeTestClient.pdb
+E:\dotnet-data-core\ConcurrencyModeTestClient\bin\Debug\ConcuurencyModeServerContractLib.dll
+E:\dotnet-data-core\ConcurrencyModeTestClient\bin\Debug\ConcuurencyModeServerContractLib.pdb
+E:\dotnet-data-core\ConcurrencyModeTestClient\obj\Debug\ConcurrencyModeTestClient.csproj.CoreCompileInputs.cache
+E:\dotnet-data-core\ConcurrencyModeTestClient\obj\Debug\ConcurrencyModeTestClient.csproj.CopyComplete
+E:\dotnet-data-core\ConcurrencyModeTestClient\obj\Debug\ConcurrencyModeTestClient.exe
+E:\dotnet-data-core\ConcurrencyModeTestClient\obj\Debug\ConcurrencyModeTestClient.pdb
+E:\dotnet-data-core\ConcurrencyModeTestClient\obj\Debug\ConcurrencyModeTestClient.csprojAssemblyReference.cache

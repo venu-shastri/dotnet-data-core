@@ -15,6 +15,7 @@ namespace Server
             
         static void Main(string[] args)
         {
+            wcf.InstanceContext
 
             wcf.ServiceHost _cakculatorServiceTypecommunicationObject =
                 new wcf.ServiceHost(typeof(CalculatorService));
