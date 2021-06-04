@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace DataHubServiceSubscriberContractLib
 {
 
-    [System.ServiceModel.ServiceContract]
+    [System.ServiceModel.ServiceContract(CallbackContract =typeof(ICallBackContract))]
     public interface ISubScriber
     {
         [System.ServiceModel.OperationContract]
@@ -17,5 +17,11 @@ namespace DataHubServiceSubscriberContractLib
         [System.ServiceModel.OperationContract]
          bool UnSubscribe(string token);
         
+    }
+
+    public interface ICallBackContract
+    {
+        [System.ServiceModel.OperationContract(IsOneWay =true)]
+        void Update(string data);
     }
 }

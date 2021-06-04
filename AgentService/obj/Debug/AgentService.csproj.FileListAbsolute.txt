@@ -4,3 +4,7 @@ E:\dotnet-data-core\AgentService\bin\Debug\AgentService.pdb
 E:\dotnet-data-core\AgentService\obj\Debug\AgentService.csproj.CoreCompileInputs.cache
 E:\dotnet-data-core\AgentService\obj\Debug\AgentService.exe
 E:\dotnet-data-core\AgentService\obj\Debug\AgentService.pdb
+E:\dotnet-data-core\AgentService\bin\Debug\DataHubServicePubisherContractLib.dll
+E:\dotnet-data-core\AgentService\bin\Debug\DataHubServicePubisherContractLib.pdb
+E:\dotnet-data-core\AgentService\obj\Debug\AgentService.csprojAssemblyReference.cache
+E:\dotnet-data-core\AgentService\obj\Debug\AgentService.csproj.CopyComplete

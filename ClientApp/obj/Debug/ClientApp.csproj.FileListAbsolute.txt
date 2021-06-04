@@ -4,3 +4,7 @@ E:\dotnet-data-core\ClientApp\bin\Debug\ClientApp.pdb
 E:\dotnet-data-core\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
 E:\dotnet-data-core\ClientApp\obj\Debug\ClientApp.exe
 E:\dotnet-data-core\ClientApp\obj\Debug\ClientApp.pdb
+E:\dotnet-data-core\ClientApp\bin\Debug\DataHubServiceSubscriberContractLib.dll
+E:\dotnet-data-core\ClientApp\bin\Debug\DataHubServiceSubscriberContractLib.pdb
+E:\dotnet-data-core\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+E:\dotnet-data-core\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
